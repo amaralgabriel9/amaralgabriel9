@@ -17,6 +17,5 @@ I’m passionate about:
 - **Data Manipulation:** SQL, DAX
 - **Automation:** Python, VBA  
 
-
 #### Let's Connect!  
 

@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Gabriel Lopes  
 💼 **Business Intelligence Analyst | Pharmaceutical Industry**  
 🎓 **Bachelor’s in Production Engineering**  
-📊 **MBA in Data Science & Analytics (in progress)**  
+📊 **MBA in Data Science & Analytics**  
 
 ### About Me  
 I specialize in transforming data into actionable insights, using tools like **Power BI**/**Tableau** and **SQL**. 
